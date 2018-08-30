@@ -41,7 +41,7 @@ var platform_src = [{
     },
     {
         platform: 'googlehangouts',
-        artifact: 'https://github.com:howdyai/botkit-starter-googlehangouts.git',
+        artifact: 'https://github.com/howdyai/botkit-starter-googlehangouts.git',
         directory: 'botkit-starter-googlehangouts'
     }
 ];
